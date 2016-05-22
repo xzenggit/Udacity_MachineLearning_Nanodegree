@@ -134,7 +134,7 @@ def survival_stats(data, outcomes, key, filters = []):
     # Common attributes for plot formatting
     plt.xlabel(key)
     plt.ylabel('Number of Passengers')
-    plt.title('Passenger Survival Statistics With \'%s\' Feature'%(key))
+    plt.title('Passenger Survival Statistics With \'%s\' Feature'%(key) + 'and ' + filters)
     plt.show()
 
     # Report number of passengers with missing values
