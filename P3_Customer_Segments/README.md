@@ -1,5 +1,6 @@
-# Project 3: Unsupervised Learning
 ## Creating Customer Segments
+
+Most of the data one collects doesn’t necessarily fit into nice, labeled categories. Many times not only is data not labeled, but categories are unknown! In this project we will take unstructured data, and then attempt to understand the patterns and natural categories that the data fits into. First we will learn about methods that are useful for dealing with data without labels, then we will apply this to a dataset of your choice, learning what natural categories sit inside it.
 
 ### Install
 
