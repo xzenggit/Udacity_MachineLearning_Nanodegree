@@ -1,5 +1,6 @@
-# Project 2: Supervised Learning
 ## Building a Student Intervention System
+
+As education has grown to rely more and more on technology, more and more data is available for examination and prediction. Logs of student activities, grades, interactions with teachers and fellow students, and more are now available in real time. Educators are after new ways to predict success and failure early enough to stage effective interventions, as well as to identify the effectiveness of different interventions. Toward that end, our goal is to model the factors that predict how likely a student is to pass their high school final exam.
 
 ### Install
 
